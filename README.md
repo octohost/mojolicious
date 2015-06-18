@@ -1,7 +1,7 @@
 Mojolicious
 =========
 
-Base Mojolicious 4.66 container for octohost.
+Base latest-version Mojolicious container for octohost.
 
 To use an already built container:
 
